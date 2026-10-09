@@ -4,6 +4,7 @@
 **Key:** Component boxes identify responsibilities; interface labels name contracts between components.
 
 ```mermaid
+
 flowchart LR
   browser["Browser UI"]
   auth["Authentication Component"]
