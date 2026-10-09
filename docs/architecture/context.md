@@ -4,6 +4,7 @@
 **Key:** Person = user role; System = software system; arrows = purpose of interaction.
 
 ```mermaid
+
 flowchart TB
     student["Person: Student / Boarder<br/>Requests a tricycle booking and checks booking status"]
     driver["Person: Tricycle Driver<br/>Views assigned bookings and updates trip status"]
