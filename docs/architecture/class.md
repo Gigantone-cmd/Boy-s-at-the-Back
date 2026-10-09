@@ -4,6 +4,7 @@
 **Key:** `1` and `0..*` denote multiplicity; enums constrain status values.
 
 ```mermaid
+
 classDiagram
 class User {
   +int id
