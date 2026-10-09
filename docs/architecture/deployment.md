@@ -4,6 +4,7 @@
 **Key:** Nodes are execution hosts; artifacts are deployed software; paths show protocols. No provider, secret or real address is assumed.
 
 ```mermaid
+
 flowchart TB
   device["Node: Student / Driver / Dispatcher Device"]
   browser["Execution environment: Web Browser"]
