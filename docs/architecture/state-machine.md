@@ -4,6 +4,7 @@
 **Key:** Arrows are events that trigger a transition; initial/final nodes show lifecycle boundaries.
 
 ```mermaid
+
 stateDiagram-v2
     [*] --> Pending: submit valid booking
     Pending --> Assigned: dispatcher assigns available driver
