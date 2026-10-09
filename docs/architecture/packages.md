@@ -4,6 +4,7 @@
 **Key:** Arrows indicate dependency/import direction.
 
 ```mermaid
+
 flowchart TB
   subgraph UI["Presentation"]
     routes["routes/web.php"]
