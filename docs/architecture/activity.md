@@ -4,6 +4,7 @@
 **Key:** Swimlanes show responsibility; diamonds are decisions; guards appear in brackets.
 
 ```mermaid
+
 flowchart TD
   subgraph S["Student / Boarder"]
     A([Start]) --> B["Enter pickup point, date/time and contact details"]
