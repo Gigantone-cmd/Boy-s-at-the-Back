@@ -4,6 +4,7 @@
 **Key:** Browser = client; Web Application = server-side application; Database = persistent storage.
 
 ```mermaid
+
 flowchart TB
     student["Student / Boarder"]
     driver["Tricycle Driver"]
