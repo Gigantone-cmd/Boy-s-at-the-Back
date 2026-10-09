@@ -4,6 +4,7 @@
 **Key:** Lifelines are participants; solid arrows are synchronous requests; dashed arrows are replies; `alt` shows branches.
 
 ```mermaid
+
 sequenceDiagram
     actor Student
     participant Page as Browser Booking Page
