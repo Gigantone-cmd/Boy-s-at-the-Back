@@ -4,6 +4,7 @@
 **Key:** `PK` = primary key; `FK` = foreign key; `[PII]` = personally identifiable information.
 
 ```mermaid
+
 erDiagram
     USERS {
       int id PK
